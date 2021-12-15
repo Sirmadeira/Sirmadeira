@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sirmadeira
 - 👀 I’m interested in programming, specifically data science related programming
-- 🌱 I’m currently learning MySqq, SQL in general
+- 🌱 I’m currently learning MySql, SQL in general
 - 💞️ I’m looking to collaborate on cool projects, that can help me
 - 📫 You can reach me by mail, nicolaumori@gmail.com  
 
