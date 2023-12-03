@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sirmadeira
 - 👀 I’m interested in programming, specifically data science related programming
-- 🌱 I am currently learning Java, and a few of it is libraries
+- 🌱 I am currently learning Rust, and a few of it is libraries
 - 💞️ I’m looking to collaborate on cool projects, that can help me
 <!---
 Sirmadeira/Sirmadeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
