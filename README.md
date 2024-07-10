@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sirmadeira
-- 👀 I’m interested in programming, specifically data science related programming
+- 👀 I’m interested in programming, specifically GAMING HELL YEAH
 - 🌱 I am currently learning Rust, and a few of it is libraries
 - 💞️ I’m looking to collaborate on cool projects, that can help me
 - This account was dead for a long while so please dont judge :(
