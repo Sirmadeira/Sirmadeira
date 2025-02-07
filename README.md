@@ -1,5 +1,3 @@
-ChatGPT said:
-
 🔥 WELCOME, MORTALS! 🔥
 
 I am @Sirmadeira, the ANNOUNCER OF THE ALL MIGHTY! 💪⚡
