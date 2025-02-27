@@ -1,6 +1,6 @@
 🔥 WELCOME, MORTALS! 🔥
 
-I am @Sirmadeira, the ANNOUNCER MY HEART BLAZES WITH THE FIRE OF HYPE! 💪⚡
+I am @Sirmadeira 💪⚡
 
 🛠 Game Developer | Rust Enthusiast | Bevy Architect 🦀
 ⚔️ Creator of Psycho Duel – A battle of minds, reflexes, and raw power!
